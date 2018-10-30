@@ -1,0 +1,5 @@
+2018-10-30 12:56:15,744 INFO  - Method saveAutocommitTrue is called in TraineeDao
+2018-10-30 12:56:15,761 INFO  - Trainee Olga Borzdyko has been saved successfully!
+2018-10-30 12:56:15,762 INFO  - Method saveAutocommitFalse is called in TraineeDao
+2018-10-30 12:56:15,798 INFO  - Trainee Denis Byhovsky has been saved successfully!
+2018-10-30 12:56:15,818 INFO  - List of trainees: [Trainee(id=2, name=Denis Byhovsky, trainer=Trainer(id=1, name=Andrei Reut, language=Java, experience=6)), Trainee(id=1, name=Olga Borzdyko, trainer=Trainer(id=2, name=Ivan Ishchenko, language=Java, experience=6))]
